@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;400;700&display=swap');
+
+* {
+  font-family: 'Oswald', 'sans-serif';
+  margin: 0;
+}
+
+.App {
+  background-color: lightgray;
+  min-height: 100vh;
+}
